@@ -1,0 +1,88 @@
+[Mon Aug 15 10:52:59 2022] PHP 7.4.3 Development Server (http://0.0.0.0:9000) started
+[Mon Aug 15 10:53:09 2022] 85.249.61.36:36904 Accepted
+[Mon Aug 15 10:53:09 2022] 85.249.61.36:36904 [200]: (null) /
+[Mon Aug 15 10:53:09 2022] 85.249.61.36:36904 Closing
+[Mon Aug 15 10:53:20 2022] 85.249.61.36:37214 Accepted
+[Mon Aug 15 10:53:20 2022] 85.249.61.36:37214 [200]: (null) /
+[Mon Aug 15 10:53:20 2022] 85.249.61.36:37214 Closing
+[Mon Aug 15 10:54:30 2022] 127.0.0.1:35668 Accepted
+[Mon Aug 15 10:54:30 2022] 127.0.0.1:35668 [200]: (null) /
+[Mon Aug 15 10:54:30 2022] 127.0.0.1:35668 Closing
+[Mon Aug 15 10:55:08 2022] 127.0.0.1:35676 Accepted
+[Mon Aug 15 10:55:08 2022] 127.0.0.1:35676 [200]: (null) /redblue/
+[Mon Aug 15 10:55:08 2022] 127.0.0.1:35676 Closing
+[Mon Aug 15 10:55:11 2022] 127.0.0.1:35680 Accepted
+[Mon Aug 15 10:55:11 2022] 127.0.0.1:35680 [200]: (null) /redblue/
+[Mon Aug 15 10:55:11 2022] 127.0.0.1:35680 Closing
+[Mon Aug 15 10:55:17 2022] 127.0.0.1:35684 Accepted
+[Mon Aug 15 10:55:17 2022] 127.0.0.1:35684 [200]: (null) /redblue/
+[Mon Aug 15 10:55:17 2022] 127.0.0.1:35684 Closing
+[Mon Aug 15 11:04:17 2022] 127.0.0.1:35690 Accepted
+[Mon Aug 15 11:04:17 2022] 127.0.0.1:35690 [200]: (null) /redblue/
+[Mon Aug 15 11:04:17 2022] 127.0.0.1:35690 Closing
+[Mon Aug 15 11:04:20 2022] 127.0.0.1:35694 Accepted
+[Mon Aug 15 11:04:20 2022] 127.0.0.1:35694 [200]: (null) /redblue/
+[Mon Aug 15 11:04:20 2022] 127.0.0.1:35694 Closing
+[Mon Aug 15 13:34:04 2022] 192.241.207.8:48898 Accepted
+[Mon Aug 15 13:34:14 2022] 192.241.207.8:48898 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Aug 15 13:34:14 2022] 192.241.207.8:48898 Closing
+[Mon Aug 15 18:49:49 2022] 80.66.75.52:64382 Accepted
+[Mon Aug 15 18:49:51 2022] 80.66.75.52:64382 Invalid request (Malformed HTTP request)
+[Mon Aug 15 18:49:51 2022] 80.66.75.52:64382 Closing
+[Mon Aug 15 19:56:34 2022] 192.241.220.95:33678 Accepted
+[Mon Aug 15 19:56:44 2022] 192.241.220.95:33678 Invalid request (Unexpected EOF)
+[Mon Aug 15 19:56:44 2022] 192.241.220.95:33678 Closing
+[Mon Aug 15 20:07:57 2022] 185.20.226.243:45214 Accepted
+[Mon Aug 15 20:07:58 2022] 185.20.226.243:45214 [200]: (null) /
+[Mon Aug 15 20:07:58 2022] 185.20.226.243:45214 Closing
+[Tue Aug 16 02:38:32 2022] 64.188.30.110:62225 Accepted
+[Tue Aug 16 02:38:32 2022] 64.188.30.110:62225 [200]: (null) /
+[Tue Aug 16 02:38:32 2022] 64.188.30.110:62225 Closing
+[Tue Aug 16 02:58:20 2022] 192.241.207.116:46938 Accepted
+[Tue Aug 16 02:58:20 2022] 192.241.207.116:46938 [200]: (null) /
+[Tue Aug 16 02:58:20 2022] 192.241.207.116:46938 Closing
+[Tue Aug 16 06:03:04 2022] 167.248.133.46:51420 Accepted
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:51420 Invalid request (Connection reset by peer)
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:51420 Closing
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:53072 Accepted
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:53072 Invalid request (Unsupported SSL request)
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:53072 Closing
+[Tue Aug 16 06:03:05 2022] 167.248.133.46:33198 Accepted
+[Tue Aug 16 06:03:06 2022] 167.248.133.46:33198 [200]: (null) /
+[Tue Aug 16 06:03:06 2022] 167.248.133.46:33198 Closing
+[Tue Aug 16 06:03:06 2022] 167.248.133.46:40846 Accepted
+[Tue Aug 16 06:03:06 2022] 167.248.133.46:40846 [200]: (null) /
+[Tue Aug 16 06:03:06 2022] 167.248.133.46:40846 Closing
+[Tue Aug 16 06:03:07 2022] 167.248.133.46:48322 Accepted
+[Tue Aug 16 06:03:07 2022] 167.248.133.46:48322 Invalid request (Malformed HTTP request)
+[Tue Aug 16 06:03:07 2022] 167.248.133.46:48322 Closing
+[Tue Aug 16 08:14:02 2022] 128.1.41.190:43858 Accepted
+[Tue Aug 16 08:14:08 2022] 128.1.41.190:43858 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Aug 16 08:14:08 2022] 128.1.41.190:43858 Closing
+[Tue Aug 16 08:14:08 2022] 128.1.41.190:44570 Accepted
+[Tue Aug 16 08:14:19 2022] 128.1.41.190:44570 Closed without sending a request; it was probably just an unused speculative preconnection
+[Tue Aug 16 08:14:19 2022] 128.1.41.190:44570 Closing
+[Tue Aug 16 08:14:19 2022] 128.1.41.190:45572 Accepted
+[Tue Aug 16 08:14:19 2022] 128.1.41.190:45572 [200]: (null) /
+[Tue Aug 16 08:14:19 2022] 128.1.41.190:45572 Closing
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45692 Accepted
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45692 Invalid request (Unsupported SSL request)
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45692 Closing
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45736 Accepted
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45736 Invalid request (Unsupported SSL request)
+[Tue Aug 16 08:14:20 2022] 128.1.41.190:45736 Closing
+[Tue Aug 16 08:14:21 2022] 128.1.41.190:45770 Accepted
+[Tue Aug 16 08:14:21 2022] 128.1.41.190:45770 Invalid request (Unsupported SSL request)
+[Tue Aug 16 08:14:21 2022] 128.1.41.190:45770 Closing
+[Tue Aug 16 08:18:15 2022] 106.75.86.172:36792 Accepted
+[Tue Aug 16 08:18:16 2022] 106.75.86.172:36792 [200]: (null) /
+[Tue Aug 16 08:18:16 2022] 106.75.86.172:36792 Closing
+[Tue Aug 16 08:18:21 2022] 106.75.86.172:37490 Accepted
+[Tue Aug 16 08:18:22 2022] 106.75.86.172:37490 [404]: (null) /favicon.ico - No such file or directory
+[Tue Aug 16 08:18:22 2022] 106.75.86.172:37490 Closing
+[Tue Aug 16 08:18:23 2022] 106.75.86.172:37864 Accepted
+[Tue Aug 16 08:18:23 2022] 106.75.86.172:37878 Accepted
+[Tue Aug 16 08:18:24 2022] 106.75.86.172:37864 [404]: (null) /robots.txt - No such file or directory
+[Tue Aug 16 08:18:24 2022] 106.75.86.172:37864 Closing
+[Tue Aug 16 08:18:24 2022] 106.75.86.172:37878 [404]: (null) /sitemap.xml - No such file or directory
+[Tue Aug 16 08:18:24 2022] 106.75.86.172:37878 Closing
