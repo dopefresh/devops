@@ -19,6 +19,6 @@ resource "aws_security_group" "vasilii-vpc-default-security-group" {
   }
 
   tags = {
-      Name = "vasilii-vpc-default-security-group"
+    Name = "vasilii-vpc-default-security-group"
   }
 }
